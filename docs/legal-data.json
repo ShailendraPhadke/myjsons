@@ -1,0 +1,210 @@
+{
+  "legal_records": [
+    {
+      "pan_number": "ABCDE1234F",
+      "cases": [
+        {
+          "case_id": "DELHC/2019/CR-32789",
+          "title": "SBI vs. Aarav Sharma",
+          "status": "Pending",
+          "court": "Delhi High Court"
+        },
+        {
+          "case_id": "MUMBA/2021/CR-54231",
+          "title": "Income Tax Dept vs. Aarav Sharma",
+          "status": "Ongoing",
+          "court": "Bombay High Court"
+        }
+      ]
+    },
+    {
+      "pan_number": "FGHIJ5678K",
+      "cases": [
+        {
+          "case_id": "CHNHC/2020/CR-87654",
+          "title": "HDFC Bank vs. Vivaan Gupta",
+          "status": "Decided",
+          "court": "Chennai High Court"
+        }
+      ]
+    },
+    {
+      "pan_number": "JKLMN9101P",
+      "cases": [
+        {
+          "case_id": "DLT/2018/CR-43210",
+          "title": "Enforcement Directorate vs. Aditya Verma",
+          "status": "Ongoing",
+          "court": "Delhi District Court"
+        },
+        {
+          "case_id": "SC/2022/WP-76543",
+          "title": "SEBI vs. Aditya Verma",
+          "status": "Pending",
+          "court": "Supreme Court of India"
+        }
+      ]
+    },
+    {
+      "pan_number": "QRSTU2345Q",
+      "cases": [
+        {
+          "case_id": "AHMDC/2017/CR-98765",
+          "title": "Local Police vs. Sai Patel",
+          "status": "Closed",
+          "court": "Ahmedabad City Court"
+        }
+      ]
+    },
+    {
+      "pan_number": "VWXYZ6789R",
+      "cases": [
+        {
+          "case_id": "KKTCR/2020/CR-32109",
+          "title": "ICICI Bank vs. Reyansh Joshi",
+          "status": "Pending",
+          "court": "Kolkata Trial Court"
+        }
+      ]
+    },
+    {
+      "pan_number": "ABCDE9876S",
+      "cases": [
+        {
+          "case_id": "SC/2016/CR-56789",
+          "title": "CBI vs. Krishna Reddy",
+          "status": "Ongoing",
+          "court": "Supreme Court of India"
+        },
+        {
+          "case_id": "HYDHC/2019/CR-87654",
+          "title": "Tax Recovery Case - Krishna Reddy",
+          "status": "Pending",
+          "court": "Hyderabad High Court"
+        }
+      ]
+    },
+    {
+      "pan_number": "FGHIJ5432T",
+      "cases": [
+        {
+          "case_id": "BLRHC/2021/CR-12345",
+          "title": "Civil Suit - Anaya Singh",
+          "status": "Ongoing",
+          "court": "Bangalore High Court"
+        }
+      ]
+    },
+    {
+      "pan_number": "JKLMN8765U",
+      "cases": [
+        {
+          "case_id": "DLHC/2018/CR-54321",
+          "title": "Bankruptcy Case - Ishaan Mehta",
+          "status": "Decided",
+          "court": "Delhi High Court"
+        }
+      ]
+    },
+    {
+      "pan_number": "QRSTU3210V",
+      "cases": [
+        {
+          "case_id": "MUMCR/2019/CR-65432",
+          "title": "Credit Card Fraud - Diya Nair",
+          "status": "Ongoing",
+          "court": "Mumbai Sessions Court"
+        },
+        {
+          "case_id": "MUMHC/2020/WP-23456",
+          "title": "Bail Application - Diya Nair",
+          "status": "Pending",
+          "court": "Mumbai High Court"
+        }
+      ]
+    },
+    {
+      "pan_number": "VWXYZ6543W",
+      "cases": [
+        {
+          "case_id": "PNJCR/2021/CR-76543",
+          "title": "Cheque Bounce Case - Aanya Kapoor",
+          "status": "Pending",
+          "court": "Punjab Consumer Court"
+        }
+      ]
+    },
+    {
+      "pan_number": "ABCDE1357X",
+      "cases": [
+        {
+          "case_id": "GUJHC/2017/CR-87654",
+          "title": "GST Evasion - Rohan Bhatia",
+          "status": "Ongoing",
+          "court": "Gujarat High Court"
+        }
+      ]
+    },
+    {
+      "pan_number": "FGHIJ2468Y",
+      "cases": [
+        {
+          "case_id": "DLT/2019/CR-98765",
+          "title": "Prevention of Money Laundering - Saanvi Choudhary",
+          "status": "Pending",
+          "court": "Delhi Trial Court"
+        }
+      ]
+    },
+    {
+      "pan_number": "JKLMN3579Z",
+      "cases": [
+        {
+          "case_id": "RJTHC/2020/CR-87654",
+          "title": "Property Dispute - Nikhil Joshi",
+          "status": "Ongoing",
+          "court": "Rajasthan High Court"
+        }
+      ]
+    },
+    {
+      "pan_number": "QRSTU4680A",
+      "cases": [
+        {
+          "case_id": "UPCR/2018/CR-76543",
+          "title": "Loan Default Case - Nisha Sethi",
+          "status": "Closed",
+          "court": "Uttar Pradesh Civil Court"
+        },
+        {
+          "case_id": "UPHC/2019/WP-65432",
+          "title": "Appeal Case - Nisha Sethi",
+          "status": "Pending",
+          "court": "Allahabad High Court"
+        }
+      ]
+    },
+    {
+      "pan_number": "VWXYZ5791B",
+      "cases": [
+        {
+          "case_id": "MPHC/2021/CR-54321",
+          "title": "Tax Evasion - Arjun Rao",
+          "status": "Ongoing",
+          "court": "Madhya Pradesh High Court"
+        }
+      ]
+    },
+    {
+      "pan_number": "ABCDE6802C",
+      "cases": [
+        {
+          "case_id": "CHNCR/2019/CR-43210",
+          "title": "Consumer Complaint - Pooja Desai",
+          "status": "Decided",
+          "court": "Chennai Consumer Court"
+        }
+      ]
+    }
+  ]
+}
