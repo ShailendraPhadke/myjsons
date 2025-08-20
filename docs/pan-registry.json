@@ -1,0 +1,170 @@
+[
+    {
+        "full_name": "Aarav Sharma",
+        "date_of_birth": "1990-01-15",
+        "pan_number": "ABCDE1234F",
+        "risk_level": "Low",
+        "remark": "No significant risk factors identified."
+    },
+    {
+        "full_name": "Vivaan Gupta",
+        "date_of_birth": "1985-03-22",
+        "pan_number": "FGHIJ5678K",
+        "risk_level": "Medium",
+        "remark": "Minor discrepancies in historical data."
+    },
+    {
+        "full_name": "Aditya Verma",
+        "date_of_birth": "1992-07-30",
+        "pan_number": "JKLMN9101P",
+        "risk_level": "High",
+        "remark": "Multiple alerts from external sources."
+    },
+    {
+        "full_name": "Sai Patel",
+        "date_of_birth": "1988-11-05",
+        "pan_number": "QRSTU2345Q",
+        "risk_level": "Low",
+        "remark": "Stable financial history."
+    },
+    {
+        "full_name": "Reyansh Joshi",
+        "date_of_birth": "1995-05-12",
+        "pan_number": "VWXYZ6789R",
+        "risk_level": "Medium",
+        "remark": "Some recent credit inquiries."
+    },
+    {
+        "full_name": "Krishna Reddy",
+        "date_of_birth": "1980-09-18",
+        "pan_number": "ABCDE9876S",
+        "risk_level": "High",
+        "remark": "Involvement in legal disputes."
+    },
+    {
+        "full_name": "Anaya Singh",
+        "date_of_birth": "1993-12-25",
+        "pan_number": "FGHIJ5432T",
+        "risk_level": "Low",
+        "remark": "No issues found."
+    },
+    {
+        "full_name": "Ishaan Mehta",
+        "date_of_birth": "1991-04-20",
+        "pan_number": "JKLMN8765U",
+        "risk_level": "Medium",
+        "remark": "Recent changes in employment."
+    },
+    {
+        "full_name": "Diya Nair",
+        "date_of_birth": "1987-06-14",
+        "pan_number": "QRSTU3210V",
+        "risk_level": "High",
+        "remark": "High debt-to-income ratio."
+    },
+    {
+        "full_name": "Aanya Kapoor",
+        "date_of_birth": "1994-08-09",
+        "pan_number": "VWXYZ6543W",
+        "risk_level": "Low",
+        "remark": "Consistent payment history."
+    },
+    {
+        "full_name": "Rohan Bhatia",
+        "date_of_birth": "1986-10-30",
+        "pan_number": "ABCDE1357X",
+        "risk_level": "Medium",
+        "remark": "Minor credit score fluctuations."
+    },
+    {
+        "full_name": "Saanvi Choudhary",
+        "date_of_birth": "1990-02-28",
+        "pan_number": "FGHIJ2468Y",
+        "risk_level": "High",
+        "remark": "Multiple loan applications in a short period."
+    },
+    {
+        "full_name": "Karan Yadav",
+        "date_of_birth": "1989-02-14",
+        "pan_number": "VWXYZ5792L",
+        "risk_level": "Low",
+        "remark": "No significant risk factors identified."
+    },
+    {
+        "full_name": "Nisha Sethi",
+        "date_of_birth": "1992-07-22",
+        "pan_number": "QRSTU4680A",
+        "risk_level": "Medium",
+        "remark": "Some recent credit inquiries."
+    },
+    {
+        "full_name": "Arjun Rao",
+        "date_of_birth": "1985-11-11",
+        "pan_number": "VWXYZ5791B",
+        "risk_level": "High",
+        "remark": "Involvement in legal disputes."
+    },
+    {
+        "full_name": "Pooja Desai",
+        "date_of_birth": "1993-01-05",
+        "pan_number": "ABCDE6802C",
+        "risk_level": "Low",
+        "remark": "Stable financial history."
+    },
+    {
+        "full_name": "Riya Sharma",
+        "date_of_birth": "1991-07-19",
+        "pan_number": "ABCDE6803M",
+        "risk_level": "Medium",
+        "remark": "Minor credit score fluctuations."
+    },
+    {
+        "full_name": "Vikram Singh",
+        "date_of_birth": "1988-11-11",
+        "pan_number": "VWXYZ5794F",
+        "risk_level": "High",
+        "remark": "Multiple loan applications in a short period."
+    },
+    {
+        "full_name": "Tanya Gupta",
+        "date_of_birth": "1995-12-12",
+        "pan_number": "VWXYZ5795P",
+        "risk_level": "Low",
+        "remark": "Stable financial history."
+    },
+    {
+        "full_name": "Kavya Iyer",
+        "date_of_birth": "1990-06-20",
+        "pan_number": "VWXYZ5796Z",
+        "risk_level": "Medium",
+        "remark": "Recent changes in employment."
+    },
+    {
+        "full_name": "Nikhil Joshi",
+        "date_of_birth": "1986-03-03",
+        "pan_number": "ABCDE1358H",
+        "risk_level": "High",
+        "remark": "Multiple alerts from external sources."
+    },
+    {
+        "full_name": "Sneha Reddy",
+        "date_of_birth": "1992-08-15",
+        "pan_number": "FGHIJ2469I",
+        "risk_level": "Low",
+        "remark": "Consistent payment history."
+    },
+    {
+        "full_name": "Aditi Kapoor",
+        "date_of_birth": "1994-05-25",
+        "pan_number": "FGHIJ2461C",
+        "risk_level": "High",
+        "remark": "Involvement in legal disputes."
+    },
+    {
+        "full_name": "Rahul Mehta",
+        "date_of_birth": "1987-10-10",
+        "pan_number": "FGHIJ2460S",
+        "risk_level": "Medium",
+        "remark": "Some recent credit inquiries."
+    }
+]
